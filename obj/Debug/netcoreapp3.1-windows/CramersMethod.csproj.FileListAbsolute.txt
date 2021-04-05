@@ -1,0 +1,15 @@
+D:\Study\CourseProject\CramersMethod\obj\Debug\netcoreapp3.1-windows\CramersMethod.csprojAssemblyReference.cache
+D:\Study\CourseProject\CramersMethod\obj\Debug\netcoreapp3.1-windows\CramersMethod.AssemblyInfoInputs.cache
+D:\Study\CourseProject\CramersMethod\obj\Debug\netcoreapp3.1-windows\CramersMethod.AssemblyInfo.cs
+D:\Study\CourseProject\CramersMethod\obj\Debug\netcoreapp3.1-windows\CramersMethod.csproj.CoreCompileInputs.cache
+D:\Study\CourseProject\CramersMethod\bin\Debug\netcoreapp3.1-windows\CramersMethod.exe
+D:\Study\CourseProject\CramersMethod\bin\Debug\netcoreapp3.1-windows\CramersMethod.deps.json
+D:\Study\CourseProject\CramersMethod\bin\Debug\netcoreapp3.1-windows\CramersMethod.runtimeconfig.json
+D:\Study\CourseProject\CramersMethod\bin\Debug\netcoreapp3.1-windows\CramersMethod.runtimeconfig.dev.json
+D:\Study\CourseProject\CramersMethod\bin\Debug\netcoreapp3.1-windows\CramersMethod.dll
+D:\Study\CourseProject\CramersMethod\bin\Debug\netcoreapp3.1-windows\CramersMethod.pdb
+D:\Study\CourseProject\CramersMethod\obj\Debug\netcoreapp3.1-windows\CramersMethod.dll
+D:\Study\CourseProject\CramersMethod\obj\Debug\netcoreapp3.1-windows\CramersMethod.pdb
+D:\Study\CourseProject\CramersMethod\obj\Debug\netcoreapp3.1-windows\CramersMethod.genruntimeconfig.cache
+D:\Study\CourseProject\CramersMethod\obj\Debug\netcoreapp3.1-windows\CramersSolution.MainForm.resources
+D:\Study\CourseProject\CramersMethod\obj\Debug\netcoreapp3.1-windows\CramersMethod.csproj.GenerateResource.cache
