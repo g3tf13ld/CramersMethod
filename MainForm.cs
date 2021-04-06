@@ -1,8 +1,10 @@
 using System;
 using System.ComponentModel;
 using System.Windows.Forms;
+using CramersSolution;
+using CramersSolution.Models;
 
-namespace CramersSolution {
+namespace CramersMethod {
     public partial class MainForm : Form {
 
         public MainForm() {
@@ -110,7 +112,7 @@ namespace CramersSolution {
             vectorB = InitTextBoxArray(layoutVectorB, n, false);
         }
 
-        public int N {
+        private int N {
             get { return n; }
             set {
                 if (value != n && value > 0) {
@@ -132,7 +134,8 @@ namespace CramersSolution {
 
         private void button1_Click(object sender, EventArgs e) {
             if (Validate()) {
-                try {
+                try
+                {
                     var linearSystem = new LinearSystem(MatrixA, VectorB);
                     VectorX = linearSystem.XVector;
                 } catch (Exception error) {
@@ -140,8 +143,8 @@ namespace CramersSolution {
                 }
             }
         }
-
-        public double[,] MatrixA {
+        
+        private double[,] MatrixA {
             get {
                 // Build the A-matrix entered by the user.
                 var tempMatrixA = new double[n, n];
@@ -158,7 +161,7 @@ namespace CramersSolution {
             }
         }
 
-        public double[] VectorB {
+        private double[] VectorB {
             get {
                 // Build the B-vector entered by the user.
                 var tempVectorB = new double[n];
@@ -173,7 +176,7 @@ namespace CramersSolution {
             }
         }
 
-        public double[] VectorX {
+        private double[] VectorX {
             set {
                 // Showing calculated X-result.
                 for (var j = 0; j < n; ++j)

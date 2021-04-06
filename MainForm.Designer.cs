@@ -1,4 +1,4 @@
-namespace CramersSolution {
+namespace CramersMethod {
     partial class MainForm {
         /// <summary>
         /// Required designer variable.

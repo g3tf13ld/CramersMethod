@@ -68,11 +68,12 @@ namespace CramersSolution {
             {
                 results[i] = dets[i] / det;
             }
+            
             return results;
         }
         
         // Determinant calculating
-        private static double GetDeterminant(double[,] matrix)
+        public static double GetDeterminant(double[,] matrix)
         {
             if(matrix.Length == 4)
             {

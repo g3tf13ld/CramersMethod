@@ -11,5 +11,5 @@ D:\Study\CourseProject\CramersMethod\bin\Debug\netcoreapp3.1-windows\CramersMeth
 D:\Study\CourseProject\CramersMethod\obj\Debug\netcoreapp3.1-windows\CramersMethod.dll
 D:\Study\CourseProject\CramersMethod\obj\Debug\netcoreapp3.1-windows\CramersMethod.pdb
 D:\Study\CourseProject\CramersMethod\obj\Debug\netcoreapp3.1-windows\CramersMethod.genruntimeconfig.cache
-D:\Study\CourseProject\CramersMethod\obj\Debug\netcoreapp3.1-windows\CramersSolution.MainForm.resources
 D:\Study\CourseProject\CramersMethod\obj\Debug\netcoreapp3.1-windows\CramersMethod.csproj.GenerateResource.cache
+D:\Study\CourseProject\CramersMethod\obj\Debug\netcoreapp3.1-windows\CramersMethod.MainForm.resources

@@ -7,11 +7,11 @@ namespace CramersSolution.Models
             : base("Solution couldn't be found: \r\n" + msg) {
         }
 
-        CramersSolutionNotFoundException() : base()
+        public CramersSolutionNotFoundException() : base()
         {
         }
 
-        CramersSolutionNotFoundException(string message, Exception exception) : base(message, exception)
+        public CramersSolutionNotFoundException(string message, Exception exception) : base(message, exception)
         {
         }
     }
